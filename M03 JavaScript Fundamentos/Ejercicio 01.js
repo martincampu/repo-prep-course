@@ -7,13 +7,9 @@
 // Crea una variable de tipo string.
 const nuevoString = null;
 
-hola 
 
 // Crea una variable de tipo number.
 const nuevoNumero = null;
-
-9
-k 
 
 // Crea una variable de tipo boolean.
 const nuevoBoolean = null;
