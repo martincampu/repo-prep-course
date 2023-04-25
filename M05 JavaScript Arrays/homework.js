@@ -146,7 +146,7 @@ function mesesDelAño(array) {
    // Si alguno de los meses no está, retornar el string: "No se encontraron los meses pedidos".
    // Tu código:
    
-}
+} 
 
 function tablaDelSeis() {
    // Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
@@ -154,7 +154,7 @@ function tablaDelSeis() {
    // Tu código:
    let arrayTablaDelSeis = [];
    for (let i = 0; i < 11; i++){
-     arrayTablaDelSeis.push (6 * i);
+     arrayTablaDelSeis.push(6 * i);
    }
    return arrayTablaDelSeis;
 }
